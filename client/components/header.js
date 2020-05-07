@@ -38,7 +38,7 @@ const Header = () => {
               <title>Menu</title>
               <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
             </svg>
-            <a href="http://google.com">menu</a>
+            <a href="https://google.com/">menu</a>
           </button>
         </div>
       )}
